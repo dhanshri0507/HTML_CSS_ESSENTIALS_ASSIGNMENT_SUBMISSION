@@ -1,0 +1,18 @@
+.Parent
+{
+    width: 100%;
+    background-color:black;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.child
+{
+    height: 250px;
+    width: 20%;
+    background-color:gray;
+    display: inline-block;
+    margin-left: 4%;
+
+}
