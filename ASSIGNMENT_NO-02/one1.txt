@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 2</title>
+<style>
+    .Dhanu
+    {
+        color: green;
+        background-color: yellow;
+        font-size: 20px;
+    }
+</style>
+<link rel="stylesheet" href="one.css">
+</head>
+<body>
+<div style="background-color: gray;">
+    <!-- Inline CSS -->
+        <p style="color:red; background-color:pink ; font-size: 20px;">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur distinctio at repudiandae quibusdam. Suscipit amet nostrum sed, quod qui cumque excepturi tempora veniam temporibus facilis! Soluta laborum quidem veritatis magni?
+        </p>
+    <!-- Internal CSS -->
+        <p class="Dhanu">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt perferendis sit consequuntur at repellat! Accusantium enim est omnis repellendus vel odit reprehenderit quo, quis ipsum placeat labore voluptate laborum fugit?
+        </p>
+    <!-- External CSS -->
+        <p class="owi">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi distinctio ex unde in iste placeat soluta nemo harum doloremque quae tenetur suscipit error deserunt autem, repellendus libero dolore esse natus?
+         </p>
+</div>
+   
+
+</body>
+</html>
