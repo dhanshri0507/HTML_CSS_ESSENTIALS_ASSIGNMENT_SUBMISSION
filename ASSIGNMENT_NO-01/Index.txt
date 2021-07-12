@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>My Website</title>
+    <link rel="icon" href="https://icon2.cleanpng.com/20180205/swe/kisspng-logo-barbie-ken-barbie-logo-png-hd-5a78898f42ad99.7597949015178489752731.jpg">
+</head>
+<body>
+   <img src="1.jpg" width="290px" height="350px" alt="Barbie Images"/>
+   <img src="2.jpg" width="290px" height="350px" alt="Barbie Images"/>
+   <img src="3.jpg" width="290px" height="350px" alt="Barbie Images"/>
+   <img src="4.jpg" width="290px" height="350px" alt="Barbie Images"/>
+   <img src="5.jpg" width="290px" height="350px" alt="Barbie Images"/>
+
+    <video controls width="290px" height="350px"> 
+        <source src ="Introduction to HTML & CSS _ HTML & CSS Essentials _  Day 1 _ LetsUpgrade.mp4"/>
+    </video >
+
+    <video controls width="290px" height="350px">
+        <source src ="HTML Syntax.mp4"/>
+    </video>
+
+    <video controls width="290px" height="350px">
+        <source src ="CSS Syntax.mp4"/>
+    </video>
+
+    <audio controls >
+        <source src="Pehli Nazar Mein - Atif Aslam - 320Kbps.mp3"/> 
+    </audio>
+
+    <audio controls >
+        <source src="Baarish - Atif Aslam 320Kbps.mp3"/> 
+    </audio>
+
+</body>
+</html>
